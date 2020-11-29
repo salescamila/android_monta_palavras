@@ -1,8 +1,8 @@
 # Monta Palavras
 by Camila da Silva Sales  
-camilas.dev@gmail.com 
-
+camilas.dev@gmail.com  
 [linkedin.com/in/salescamila](linkedin.com/in/salescamila)
+
 
 ### Descrição da aplicação...
 Busca, em um banco de palavras pré-definido, a palavra de maior pontuação e com menor caracteres possíveis que pode ser formada a partir de um conjunto de letras digitadas. Exibe a palavra formada, sua pontuação e as letras que não foram utilizadas.
