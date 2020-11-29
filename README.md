@@ -1,7 +1,10 @@
 # Monta Palavras
+by Camila da Silva Sales  
+camilas.dev@gmail.com 
+[linkedin.com/in/salescamila](linkedin.com/in/salescamila)
 
 ### Descrição da aplicação...
-Busca, em um banco de palavras pré-definido, a palavra de maior pontuação e com menor caractéres possíveis que pode ser formada a partir de um conjunto de letras digitadas. Exibe a palavra formada, sua pontuação e as letras que não foram utilizadas.
+Busca, em um banco de palavras pré-definido, a palavra de maior pontuação e com menor caracteres possíveis que pode ser formada a partir de um conjunto de letras digitadas. Exibe a palavra formada, sua pontuação e as letras que não foram utilizadas.
 
 ### Como foi estruturado...
 - Desenvolvido em Kotlin
@@ -24,7 +27,7 @@ Busca, em um banco de palavras pré-definido, a palavra de maior pontuação e c
   - cria um Map com palavra e a soma do valor de cada letra
 - Filtrar as palavras deixando apenas as de maior pontuação
 - Validar critérios de desempate caso ocorra
-  - retorna apenas uma palavra, sendo a de menor caractéres, e sua pontuação correpondente
+  - retorna apenas uma palavra, sendo a de menor caracteres, e sua pontuação correspondente
 - Verificar letras não utilizadas
   - percorre, letra a letra, a palavra encontrada do banco e vai removendo a letra correspondente do texto informado incialmente
 - Caso pontuação maior que zero, retorna palavra encontrada, pontuação e letras que sobrarem
